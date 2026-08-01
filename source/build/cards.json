@@ -1,0 +1,309 @@
+[
+  {
+    "id": "A1-silent-epidemic",
+    "pillar": "The Silent Epidemic",
+    "layout": "hero",
+    "theme": "dark",
+    "eyebrow": "Ireland’s Bone Health Resource",
+    "line1": "Osteoporosis:",
+    "line2": "Ireland’s silent epidemic",
+    "sub": "It has no symptoms. A fragility fracture is often the first sign.",
+    "source": ""
+  },
+  {
+    "id": "A2-400000",
+    "pillar": "The Silent Epidemic",
+    "layout": "stat",
+    "theme": "cream",
+    "eyebrow": "People in Ireland",
+    "figure": "400,000",
+    "label": "people in Ireland are estimated to have osteoporosis",
+    "sub": "Most don’t know it. Many are found only after a fracture.",
+    "source": "Source: IFLS-DB 2024 & International Osteoporosis Foundation"
+  },
+  {
+    "id": "A3-1in3-1in5",
+    "pillar": "The Silent Epidemic",
+    "layout": "duo",
+    "theme": "dark",
+    "eyebrow": "Who is at risk",
+    "figureA": "1 in 3",
+    "labelA": "Irish women over 60",
+    "figureB": "1 in 5",
+    "labelB": "Irish men over 60",
+    "sub": "are at risk of osteoporosis. Most don’t know it.",
+    "source": "Source: FragilityFracture.ie"
+  },
+  {
+    "id": "A4-30000",
+    "pillar": "The Silent Epidemic",
+    "layout": "stat",
+    "theme": "white",
+    "eyebrow": "Fractures every year",
+    "figure": "30,000",
+    "label": "osteoporotic fractures in Ireland every year",
+    "sub": "Many of them preventable with early diagnosis.",
+    "source": "Source: IFLS-DB 2024"
+  },
+  {
+    "id": "A5-460m",
+    "pillar": "The Silent Epidemic",
+    "layout": "stat",
+    "theme": "dark",
+    "eyebrow": "Economic cost per year",
+    "figure": "€460m",
+    "label": "the annual cost of treating fragility fractures",
+    "sub": "To the Irish economy. Every single year.",
+    "source": "Source: IFLS-DB 2024 & International Osteoporosis Foundation"
+  },
+  {
+    "id": "A6-74pc",
+    "pillar": "The Silent Epidemic",
+    "layout": "stat",
+    "theme": "cream",
+    "eyebrow": "The treatment gap",
+    "figure": "74%",
+    "label": "of patients are not on treatment at their first fracture",
+    "sub": "The first break is the warning. It is too often the missed one.",
+    "source": "Source: IFLS-DB 2024"
+  },
+  {
+    "id": "A7-doubles",
+    "pillar": "The Silent Epidemic",
+    "layout": "quote",
+    "theme": "yellow",
+    "eyebrow": "Why the first one matters",
+    "quote": "One fragility fracture doubles your risk of the next one.",
+    "sub": "Which is exactly why it should never be treated as bad luck.",
+    "source": "Source: FragilityFracture.ie"
+  },
+  {
+    "id": "B1-what-is-it",
+    "pillar": "Know a Fragility Fracture",
+    "layout": "quote",
+    "theme": "cream",
+    "eyebrow": "What you need to know",
+    "quote": "What is a fragility fracture?",
+    "sub": "A broken bone caused by a force that would not normally break a healthy bone — a minor fall, a bump, or even an everyday activity.",
+    "source": "Source: FragilityFracture.ie"
+  },
+  {
+    "id": "B2-first-sign",
+    "pillar": "Know a Fragility Fracture",
+    "layout": "quote",
+    "theme": "dark",
+    "eyebrow": "The silent part",
+    "quote": "A fragility fracture is often the first visible sign of osteoporosis.",
+    "sub": "By then, the bone loss has been happening for years.",
+    "source": "Source: FragilityFracture.ie"
+  },
+  {
+    "id": "B3-sites",
+    "pillar": "Know a Fragility Fracture",
+    "layout": "sites",
+    "theme": "white",
+    "eyebrow": "Common fragility fracture sites",
+    "items": [
+      "Hip",
+      "Spine",
+      "Wrist",
+      "Upper arm & shoulder"
+    ],
+    "sub": "A break at any of these after a minor fall deserves a bone health conversation.",
+    "source": "Source: FragilityFracture.ie & International Osteoporosis Foundation"
+  },
+  {
+    "id": "B4-men",
+    "pillar": "Know a Fragility Fracture",
+    "layout": "stat",
+    "theme": "dark",
+    "eyebrow": "Men get osteoporosis too",
+    "figure": "1 in 5",
+    "label": "men over 50 will have an osteoporosis-related fracture",
+    "sub": "It is not a women’s disease. It is just diagnosed like one.",
+    "source": "Source: FragilityFracture.ie"
+  },
+  {
+    "id": "B5-menopause",
+    "pillar": "Know a Fragility Fracture",
+    "layout": "stat",
+    "theme": "cream",
+    "eyebrow": "Menopause and bone",
+    "figure": "20%",
+    "label": "of bone density can be lost in the first 5–7 years after menopause",
+    "sub": "The oestrogen drop accelerates bone loss. This is the window to act in.",
+    "source": "Source: FragilityFracture.ie"
+  },
+  {
+    "id": "C1-99pc",
+    "pillar": "Calcium & Vitamin D",
+    "layout": "stat",
+    "theme": "white",
+    "eyebrow": "Where your calcium lives",
+    "figure": "99%",
+    "label": "of the body’s calcium is stored in the skeleton",
+    "sub": "Your bones are not just a frame. They are the bank.",
+    "source": "Source: FragilityFracture.ie"
+  },
+  {
+    "id": "C2-borrows",
+    "pillar": "Calcium & Vitamin D",
+    "layout": "quote",
+    "theme": "yellow",
+    "eyebrow": "How bone loss actually happens",
+    "quote": "When you don’t eat enough calcium, your body takes it from your bones.",
+    "sub": "Not gradually noticeable. Just gradually.",
+    "source": "Source: FragilityFracture.ie"
+  },
+  {
+    "id": "C3-vitd-partner",
+    "pillar": "Calcium & Vitamin D",
+    "layout": "quote",
+    "theme": "cream",
+    "eyebrow": "They only work together",
+    "quote": "Calcium can’t do its job without Vitamin D.",
+    "sub": "Vitamin D is what lets your gut absorb the calcium you eat. Without it, the calcium passes straight through.",
+    "source": "Source: FragilityFracture.ie"
+  },
+  {
+    "id": "C4-1200mg",
+    "pillar": "Calcium & Vitamin D",
+    "layout": "stat",
+    "theme": "dark",
+    "eyebrow": "Daily calcium target",
+    "figure": "1,200mg",
+    "label": "a day for women aged 51 and over",
+    "sub": "Adults 19–50: 1,000mg. Adults 70+: 1,200mg.",
+    "source": "Source: International Osteoporosis Foundation 2025 & Institute of Medicine 2011"
+  },
+  {
+    "id": "C5-gap",
+    "pillar": "Calcium & Vitamin D",
+    "layout": "stat",
+    "theme": "cream",
+    "eyebrow": "The calcium gap",
+    "figure": "600–700mg",
+    "label": "is what Irish adults over 50 actually get in a day",
+    "sub": "That is 54% of the 1,200mg target. The other 46% comes out of your bones.",
+    "source": "Source: FragilityFracture.ie"
+  },
+  {
+    "id": "C6-76pc",
+    "pillar": "Calcium & Vitamin D",
+    "layout": "stat",
+    "theme": "white",
+    "eyebrow": "Irish research 2023",
+    "figure": "76%",
+    "label": "of Irish adults over 40 don’t get the recommended amount of calcium",
+    "sub": "From a survey of 600 Irish men and women over 40.",
+    "source": "Source: Research commissioned by Athena, conducted by Empathy Research, 2023"
+  },
+  {
+    "id": "C7-dairy",
+    "pillar": "Calcium & Vitamin D",
+    "layout": "quote",
+    "theme": "cream",
+    "eyebrow": "Where to get it",
+    "quote": "Dairy is the richest and most readily absorbed source of calcium in the Irish diet.",
+    "sub": "Not eating dairy? Fortified plant milks, tinned sardines, tofu set with calcium, kale and almonds all count. You just have to count them.",
+    "source": "Source: FragilityFracture.ie"
+  },
+  {
+    "id": "C8-4x",
+    "pillar": "Calcium & Vitamin D",
+    "layout": "stat",
+    "theme": "dark",
+    "eyebrow": "Vitamin D in Ireland",
+    "figure": "4×",
+    "label": "less Vitamin D is produced by older skin from sunlight",
+    "sub": "In an Irish October, that is not a gap you can sunbathe your way out of.",
+    "source": "Source: FragilityFracture.ie"
+  },
+  {
+    "id": "C9-85pc",
+    "pillar": "Calcium & Vitamin D",
+    "layout": "stat",
+    "theme": "cream",
+    "eyebrow": "Irish research 2023",
+    "figure": "85%",
+    "label": "of adults don’t know how much calcium or Vitamin D they should take daily",
+    "sub": "If you’re in the 85%, this account is for you.",
+    "source": "Source: Research commissioned by Athena, conducted by Empathy Research, 2023"
+  },
+  {
+    "id": "D1-risk-factors",
+    "pillar": "Test & Treat",
+    "layout": "question",
+    "theme": "dark",
+    "eyebrow": "Two-minute check",
+    "quote": "Going through menopause? Vegan? On long-term steroids?",
+    "sub": "All three raise your risk of osteoporosis. Check yours in two minutes.",
+    "cta": "Check your risk in 2 minutes",
+    "source": ""
+  },
+  {
+    "id": "D2-dxa",
+    "pillar": "Test & Treat",
+    "layout": "question",
+    "theme": "dark",
+    "eyebrow": "Ask the question",
+    "quote": "Should you talk to your GP about a DXA scan?",
+    "sub": "A DXA scan measures bone density. It finds bone loss before a fracture does.",
+    "cta": "Learn about DXA scans",
+    "source": ""
+  },
+  {
+    "id": "D3-fls",
+    "pillar": "Test & Treat",
+    "layout": "question",
+    "theme": "yellow",
+    "eyebrow": "After a fracture",
+    "quote": "Should I be referred to a Fracture Liaison Service?",
+    "sub": "If you have broken a bone after a minor fall, this is the question to bring to your doctor. Ask it.",
+    "cta": "Read more on fragilityfracture.ie",
+    "source": ""
+  },
+  {
+    "id": "D4-45pc",
+    "pillar": "Test & Treat",
+    "layout": "stat",
+    "theme": "white",
+    "eyebrow": "Irish research 2023",
+    "figure": "45%",
+    "label": "of people who buy calcium or Vitamin D supplements dose incorrectly",
+    "sub": "Buying it is not the same as getting it. Check the label with your pharmacist.",
+    "source": "Source: Research commissioned by Athena, conducted by Empathy Research, 2023"
+  },
+  {
+    "id": "E1-peak-bone",
+    "pillar": "Build & Protect",
+    "layout": "stat",
+    "theme": "cream",
+    "eyebrow": "The bone lifecycle",
+    "figure": "25–30",
+    "label": "the age you reach your peak bone mass",
+    "sub": "That is the ceiling. Everything after is about how slowly you come down from it.",
+    "source": "Source: FragilityFracture.ie"
+  },
+  {
+    "id": "E2-exercise",
+    "pillar": "Build & Protect",
+    "layout": "quote",
+    "theme": "cream",
+    "eyebrow": "Exercise & activity",
+    "quote": "Strength and conditioning exercise helps build bone density.",
+    "sub": "Bone responds to load. Weight-bearing work tells it to stay dense.",
+    "source": "Source: FragilityFracture.ie"
+  },
+  {
+    "id": "E3-early-testing",
+    "pillar": "Build & Protect",
+    "layout": "hero",
+    "theme": "dark",
+    "eyebrow": "The whole point",
+    "line1": "Early testing and treatment",
+    "line2": "change outcomes.",
+    "sub": "Osteoporosis is silent, common, and treatable. Two out of three is not a reason to wait.",
+    "source": ""
+  }
+]
